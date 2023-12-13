@@ -1,6 +1,6 @@
 # FNAF WRLD XNB Hack
 -----
-![image](https://github.com/mindsetpro/FNAF-XNB-Hack/assets/138173273/cab3cf00-ead6-4fb5-af0f-cd3db5d286c7)
+![image](https://emoji.discadia.com/emojis/ea93b10c-3060-4cc7-bb57-b8ee9f2211a3.GIF)
 
 Get the game from:
 [FNAF Wrld](https://fnaf-world.en.uptodown.com/windows/download#)
